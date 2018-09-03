@@ -1,9 +1,8 @@
 {
   "name": "JTheme",
   "version": "0.1.0",
-  "summary": "A short description of JTheme.",
-  "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/Jone/JTheme",
+  "summary": "JTheme",
+  "homepage": "https://github.com/nizenyang/JTheme",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,11 +11,11 @@
     "Jone": "jone4317@163.com"
   },
   "source": {
-    "git": "https://github.com/Jone/JTheme.git",
+    "git": "https://github.com/nizenyang/JTheme.git",
     "tag": "0.1.0"
   },
   "platforms": {
     "ios": "8.0"
   },
-  "source_files": "JTheme/Classes/**/*"
+  "source_files": "JTheme/**/*"
 }
