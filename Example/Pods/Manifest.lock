@@ -1,0 +1,16 @@
+PODS:
+  - JTheme (0.1.0)
+
+DEPENDENCIES:
+  - JTheme (from `../`)
+
+EXTERNAL SOURCES:
+  JTheme:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  JTheme: 2c9cf9f119267ee425d5a0bca412f578cb0f1683
+
+PODFILE CHECKSUM: 5c65ff41da52b5bdbc22412a907c649c837048c2
+
+COCOAPODS: 1.5.3
