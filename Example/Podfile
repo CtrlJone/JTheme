@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'JTheme_Example' do
+  pod 'JTheme', :path => '../'
+
+  target 'JTheme_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
